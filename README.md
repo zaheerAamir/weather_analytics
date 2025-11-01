@@ -21,8 +21,8 @@ If you are developing a production application, we recommend using TypeScript wi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/gzarii/weather-app
-   cd weather-app
+   git clone https://github.com/zaheerAamir/weather_analytics
+   cd weatherAnalytics
    ```
 
 2. Install dependencies:
